@@ -1,0 +1,1 @@
+I want to maximize functionnal programming in this project.
